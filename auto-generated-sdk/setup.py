@@ -30,7 +30,7 @@ setup(
     description="Swagger Petstore",
     author="OpenAPI Generator community",
     author_email="apiteam@swagger.io",
-    url="https://github.com/factset/sampleapi-python-sdk",
+    url="https://github.factset.com/factset/sampleapi-python-sdk",
     keywords=["OpenAPI", "OpenAPI-Generator", "Swagger Petstore"],
     install_requires=REQUIRES,
     packages=find_packages(exclude=["test", "tests"]),

@@ -2,7 +2,7 @@
 
 # Sample API Python SDK
 
-[![build](https://img.shields.io/github/workflow/status/factset/sampleapi-python-sdk/CI)](https://github.com/factset/sampleapi-python-sdk/actions?query=workflow%3ACI)
+[![build](https://img.shields.io/github/workflow/status/factset/sampleapi-python-sdk/CI)](https://github.factset.com/factset/sampleapi-python-sdk/actions?query=workflow%3ACI)
 [![PyPi](https://img.shields.io/pypi/v/fds.sampleapi)](https://pypi.org/project/fds.sampleapi/)
 ![API version](https://img.shields.io/badge/API-v1-blue)
 [![Apache-2 license](https://img.shields.io/badge/license-Apache2-brightgreen.svg)](https://www.apache.org/licenses/LICENSE-2.0)
@@ -13,7 +13,7 @@ Use this library to integrate with FactSet's Sample APIs. Below APIs are support
 
 ## Contents
 
-* [auto-generated-sdk](auto-generated-sdk) - Auto-generated code using [Sample API SDK Generator](https://github.com/factset/sampleapi-sdk-generator)
+* [auto-generated-sdk](auto-generated-sdk) - Auto-generated code using [Sample API SDK Generator](https://github.factset.com/factset/sampleapi-sdk-generator)
 * [examples](examples) - Sample project containing code snippets to quickly get started with the SDK  
 * [tests](tests) - Integration tests
 
@@ -32,7 +32,7 @@ Use this library to integrate with FactSet's Sample APIs. Below APIs are support
 * Alternatively, download or clone this repository and install the SDK by  running Setuptools in the SDK installation directory:
 
   ```sh
-  git clone https://github.com/factset/sampleapi-python-sdk.git
+  git clone https://github.factset.com/factset/sampleapi-python-sdk.git
   cd auto-generated-sdk
   python setup.py install --user
   ```
@@ -46,7 +46,7 @@ Refer [examples](examples) project for sample code snippets to quickly get start
 First, clone the repo locally and `cd` into the directory.
 
 ```sh
-git clone https://github.com/factset/sampleapi-python-sdk.git
+git clone https://github.factset.com/factset/sampleapi-python-sdk.git
 cd tests
 ```
 
@@ -71,5 +71,5 @@ python -m test
 
 ## Contributing
 
-* Files in [auto-generated-sdk](auto-generated-sdk) directory are auto-generated and should not be manually edited here. Refer [Sample API SDK Generator](https://github.com/factset/sampleapi-sdk-generator) for instructions on how to modify these files.
+* Files in [auto-generated-sdk](auto-generated-sdk) directory are auto-generated and should not be manually edited here. Refer [Sample API SDK Generator](https://github.factset.com/factset/sampleapi-sdk-generator) for instructions on how to modify these files.
 * Projects [examples](examples) and [tests](tests) are open to enhancements and bug fixes. Please create a pull requests with the proposed changes.
